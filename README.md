@@ -22,7 +22,7 @@
 	
 ### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+milestone%3A%22%F0%9F%92%8EPQRS+5+-+Construisez+un+site+ecommerce+en+JavaScript%22+sort%3Acreated-asc"> <img src="https://img.shields.io/badge/📌-Issues-F6BF26"></a>&#32; 90h de formation - A finir avant le 16/01/2023.</p> 
 
-<p align="center"><a href="https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript?archived-source=5543061/fr/courses/6175841-apprenez-a-programmer-avec-javascript"> <img src="https://img.shields.io/badge/MODULE_3- Écrivez du JavaScript pour le web -F6BF26" width="600"> </a></p>
+<p align="center"><a href="https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript?archived-source=5543061/fr/courses/6175841-apprenez-a-programmer-avec-javascript"> <img src="https://img.shields.io/badge/MODULE_3- Déboguez l’interface de votre site internet -F6BF26" width="600"> </a></p>
 
 	
 	15h	🍓 1 Apprenez à programmer avec JavaScript 			📌📌📌📌	
