@@ -37,7 +37,6 @@ Table des matières
     	3. Adoptez la logique de débogage
 
     	Quiz : Identifiez les différents types de bug de votre interface Front-End
-
 ```
 	
 ```	
@@ -70,8 +69,7 @@ Table des matières
 	
 ```	
     Partie 5 - Déboguez une application
-	
-	
+		
     	1. Découvrez un bug complexe
     	2. Résolvez un bug complexe
 
