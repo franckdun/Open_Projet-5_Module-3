@@ -41,9 +41,9 @@ Table des matières
 	
 ```	
     Partie 2 - Déboguez votre HTML/CSS
-
-    	1. Détectez des bugs HTML et CSS
-		2. Tirez parti de l’inspecteur pour résoudre vos bugs
+	
+        1. Détectez des bugs HTML et CSS
+        2. Tirez parti de l’inspecteur pour résoudre vos bugs
 
     	Quiz : Déboguez votre HTML/CSS
 ```
