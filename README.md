@@ -51,8 +51,8 @@ Table des matières
 ```	
     Partie 3 - Résolvez des bugs sur le DOM
 
-    	1. Découvrez les différents bugs du DOM
-		2. Servez-vous des outils dédiés au débogage
+        1. Découvrez les différents bugs du DOM
+        2. Servez-vous des outils dédiés au débogage
 ```
 	
 ```	
@@ -61,17 +61,16 @@ Table des matières
     	1. Récupérez des données sur une API externe
         2. Récupérez des données sur une API interne
 		
-		Quiz : Solutionnez des bugs sur l’API		
+        Quiz : Solutionnez des bugs sur l’API		
 ```
 	
 ```	
     Partie 5 - Déboguez une application
 	
-		1. Découvrez un bug complexe
-		2. Résolvez un bug complexe
+        1. Découvrez un bug complexe
+        2. Résolvez un bug complexe
 		
-		Quiz : Déboguez une application
-	
+        Quiz : Déboguez une application	
 ```
 	
 ```	
