@@ -70,7 +70,8 @@ Table des matières
 		1. Découvrez un bug complexe
 		2. Résolvez un bug complexe
 		
-		Quiz : Déboguez une application		
+		Quiz : Déboguez une application
+	
 ```
 	
 ```	
