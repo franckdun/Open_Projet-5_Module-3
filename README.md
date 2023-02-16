@@ -46,7 +46,6 @@ Table des matières
 		2. Tirez parti de l’inspecteur pour résoudre vos bugs
 
     	Quiz : Déboguez votre HTML/CSS
-
 ```
 	
 ```	
@@ -54,7 +53,6 @@ Table des matières
 
     	1. Découvrez les différents bugs du DOM
 		2. Servez-vous des outils dédiés au débogage
-
 ```
 	
 ```	
@@ -62,9 +60,8 @@ Table des matières
 
     	1. Récupérez des données sur une API externe
     	2. Récupérez des données sur une API interne
-
-   		Quiz : Solutionnez des bugs sur l’API
 		
+   		Quiz : Solutionnez des bugs sur l’API		
 ```
 	
 ```	
