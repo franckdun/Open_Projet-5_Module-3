@@ -25,55 +25,61 @@
 <p align="center"><a href="https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet"> <img src="https://img.shields.io/badge/MODULE_3- Déboguez l’interface de votre site internet -F6BF26" width="600"> </a></p>
 
 	
-	15h	🍓 1 Apprenez à programmer avec JavaScript 			📌📌📌📌	
+	10h	🥑 1 Déboguez l’interface de votre site internet	📌🖋📌🖋📌📌🖋📌🖋	
 	
 Table des matières
 
 ```	
-    Partie 1 - Utilisez les données et les types de données dans JavaScript
+    Partie 1 -  Identifiez les différents types de bug de votre interface Front-End
 	
-        1. Tirez un maximum de ce cours
-        2. Déclarez des variables et modifiez leurs valeurs
-        3. Enregistrez vos données avec des types de données
-        4. Définissez des objets et leurs attributs avec des classes
-        5. Regroupez vos données avec les tableaux et les objets
-        6. Résumé de la partie 1
-	
-        Quiz : Vérifiez ce que vous avez appris sur les données et les types !
+    	1. Découvrez les sources de bug potentielles
+    	2. Prenez en main les outils de débogage
+    	3. Adoptez la logique de débogage
+
+    	Quiz : Identifiez les différents types de bug de votre interface Front-End
+
 ```
 	
 ```	
-    Partie 2 - Gérez la logique d'un programme en JavaScript
-	
-        1. Exécutez du JavaScript facilement
-        2. Choisissez la condition appropriée pour contrôler le déroulement de votre programme (if, else, switch)
-        3. Utilisez la bonne boucle pour répéter les tâches (for, while)
-        4. Gérez des erreurs et des exceptions dans votre programme
-        5. Résumé de la partie 2
-	
-        Quiz : Vérifiez ce que vous avez appris sur la logique informatique !
+    Partie 2 - Déboguez votre HTML/CSS
+
+    	1. Détectez des bugs HTML et CSS
+		2. Tirez parti de l’inspecteur pour résoudre vos bugs
+
+    	Quiz : Déboguez votre HTML/CSS
+
 ```
 	
 ```	
-    Partie 3 - Écrivez du code propre et facile à maintenir
-	
-        1. Travaillez sur les fonctions
-        2. Définissez des méthodes d'instance et des propriétés
-        3. Écrivez des fonctions propres
-        4. Testez qu'une fonction fait ce qu'elle dit
-        5. Déboguez votre fonction
-        6. Découvrez la récursivité : l'appel de fonctions à l'intérieur d'elles-mêmes
-        7. Résumé de la partie 3
-	
-        Quiz : Aidez à créer une application de suivi de livres pour les lecteurs !
+    Partie 3 - Résolvez des bugs sur le DOM
+
+    	1. Découvrez les différents bugs du DOM
+		2. Servez-vous des outils dédiés au débogage
+
 ```
 	
 ```	
-    Partie 4 - Retenez les notions du cours
+    Partie 4 - Solutionnez des bugs sur l’API
+
+    	1. Récupérez des données sur une API externe
+    	2. Récupérez des données sur une API interne
+
+   		Quiz : Solutionnez des bugs sur l’API
+		
+```
 	
-        1. Résumé du cours
+```	
+    Partie 5 - Déboguez une application
 	
-    Certificat de réussite (voir un exemple)
+	
+    	1. Découvrez un bug complexe
+    	2. Résolvez un bug complexe
+
+    	Quiz : Déboguez une application
+```
+	
+```	
+    Certificat de réussite 
 ```
 
 
