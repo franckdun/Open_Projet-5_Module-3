@@ -25,7 +25,7 @@
 <p align="center"><a href="https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet"> <img src="https://img.shields.io/badge/MODULE_3- Déboguez l’interface de votre site internet -F6BF26" width="600"> </a></p>
 
 	
-	10h	🥑 1 Déboguez l’interface de votre site internet	📌🖋📌🖋📌📌🖋📌🖋	
+	10h	de formationn difficulté 🥑 1 📌🖋📌🖋📌📌🖋📌🖋	
 	
 Table des matières
 
