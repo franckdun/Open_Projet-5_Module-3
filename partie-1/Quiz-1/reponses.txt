@@ -1,0 +1,40 @@
+question 1= 2
+
+L’inspecteur est un outil fabuleux ; nous l’utiliserons d’ailleurs dès la prochaine partie. Il permet de visualiser et d’éditer des règles CSS, il permet de modifier du HTML et vous donne des informations sur le modèle de boîte. 
+
+Cela dit, vous ne pourrez pas utiliser l’inspecteur pour exécuter directement des fonctions JavaScript. C’est la console qui vous permettra de réaliser ces actions.
+
+question 2 = 1 3 5
+
+L’onglet Network vous permet aussi bien de connaître la taille (on dit aussi le poids) des fichiers chargés que les requêtes HTTP réalisées sur votre page. Vous utiliserez l’onglet réseau aussi bien pour déboguer vos API que pour optimiser vos pages web.
+
+question 3 = 4
+
+Si vous n’avez pas réussi à trouver “The cake is a lie”, ce n’est pas grave. Je vous invite à revenir sur le chapitre précédent avant de continuer : vous aurez besoin de savoir comment utiliser la console pour la suite du cours.  :) 
+
+La console vous permet de récupérer les valeurs des variables mais aussi d’exécuter les fonctions. On s’en sert régulièrement pour déboguer.
+
+question 4 = 1
+
+Si vous n’avez pas réussi à trouver “It’s a trap”, ce n’est pas grave. Je vous invite à revenir sur le chapitre précédent avant de continuer : vous aurez besoin de savoir comment utiliser la console pour la suite du cours. :)
+
+La console vous permet d’exécuter des fonctions à la demande et de connaître les valeurs de retour utilisées. :)
+
+question 5 = 4
+
+La police utilisée pour le bouton “Se Connecter” est Open Sans. Vous pouvez la trouver juste en-dessous du modèle de boite.
+
+question 6 = 1 2 3 5
+
+En dehors du clavier, toutes les réponses sont bonnes. :)
+
+N’oubliez pas que cette phase vise à comprendre les conditions durant lesquelles surviennent le bug. Il est donc important que vous ayez le maximum d’informations pour pouvoir répéter autant que possible ce dernier.
+
+question 7 = 1 3 4 5
+
+Ici, seule la réponse 2 est fausse. En effet, il est important, une fois le bug corrigé, que vous preniez le temps de regarder si le reste du projet fonctionne correctement ! Trop souvent, on essaye d’aller trop vite et on ne regarde pas si le reste de l’application n’est pas cassé.
+
+Soyez rigoureux et faites cela et vous deviendrez d’excellents développeurs ! :)
+
+
+
