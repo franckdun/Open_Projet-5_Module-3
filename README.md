@@ -27,6 +27,10 @@
 	
 	Durée: 10h  ||  Difficulté: 🥑  ||  Etapes:  📌🖋📌🖋📌📌🖋📌🖋	
 	
+	
+<p align="left"><a href="https://mega.nz/file/lc413YxA#6sqj1AyRJpi5jXDGzun2cSQiscJKqcF-i4qLKeqKZbw"><img src="https://img.shields.io/badge/Toute les Videos du cours-Mega-ff002f"></a></p>
+
+	
 Table des matières
 
 ```	
